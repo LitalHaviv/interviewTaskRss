@@ -1,0 +1,31 @@
+﻿body {
+}
+#sidebar {
+    line-height:30px;
+    height:100%;
+    width:300px;
+    float:left;
+    padding:5px;
+    border-style: groove;
+    border-width: 1px; 
+    background-color: beige;    
+}
+#mainScreen {
+    height:100%;
+    width:1010px;
+    float:left;
+    padding:10px;
+    border-style: groove;
+    border-width: 1px; 
+    background-color: antiquewhite;
+}
+#urlhistoryList div button {
+    cursor: pointer; 
+}
+#urlhistoryList div button:hover {
+    background-color: beige;
+}
+h1{
+    text-align:center;
+}
+
